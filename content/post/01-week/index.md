@@ -20,7 +20,7 @@ title: 'Week 1 - Welcome to IDS'
 
 - Watch the [videos](/post/01-week/#videos)
 - Complete the [readings](/post/01-week/#readings)
-- Visit the course on [Learn](https://www.learn.ed.ac.uk/) to join RStudio Cloud
+- Visit the course on [Moodle](https://e-learning.hdm-stuttgart.de/moodle/login/index.php) to join RStudio Cloud
 - Complete the [Getting to Know you survey](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUMkU3TzFXRTkyTFBVVjBLVUVTRDdJVlg2WS4u)
 - Complete the [assignments](/post/01-week/#assignments)
   - Participation in the Extra Credit opportunity is optional, but **highly** encouraged
